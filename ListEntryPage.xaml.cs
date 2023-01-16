@@ -1,5 +1,7 @@
 namespace TrainingStudioApp;
 using TrainingStudioApp.Models;
+using TrainingStudioApp.Data;
+using SQLite;
 
 public partial class ListEntryPage : ContentPage
 {
